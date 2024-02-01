@@ -1,5 +1,5 @@
 import mysql.connector
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # pip install matplotlib
 
 connection = mysql.connector.connect(
     host="localhost",
